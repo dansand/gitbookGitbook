@@ -24,6 +24,10 @@ Great. This should have set up the webhooks needed to update your girbook from g
 
 ##Step 3: Adding content
 
+ From your gitbook.com dashboard (e.e. https://www.gitbook.com/@dansand/dashboard) click on you newly created book. This takes you to the book's `detail`s page: (e.g. https://www.gitbook.com/book/dansand/gitbookgitbook/details).
+ 
+ There is an edit icon, which will allow you to edit content. 
+
 ##Step 4: Marking it Down
 
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -82,7 +86,7 @@ Your book will automatically have file called SUMMARY.md and place it in the doc
 
 ##Step 6: Configuration and plugins
 
-Create a book.json in the project’s root. This is used by Gitbook for its settings. Plugins are generally added by pasting an entry snippet into the book.json file. 
+When you are in the online editor on gitbook.com, there is a dropdown icon at thefar riht of the screen. Click on this an then on `plugins store`. Selecting a plugins will have two effects: First it will create a book.json in the project’s root. This is used by Gitbook for its settings. Second it will add the plugin you selected by pasting the required json snippet into the book.json file. 
 
 
 ```json
