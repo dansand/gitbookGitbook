@@ -10,4 +10,5 @@ Create a github repository...[](https://help.github.com/articles/creating-a-new-
 * When you create a github repository you can choose a customised gitbook `.gitignore` file. 
 * Add a license if one of the default options is suitable
 * Click `create repository`
+* Make sure to add a readme.md file (add readme button)
 
