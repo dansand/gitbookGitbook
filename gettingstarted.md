@@ -12,3 +12,5 @@ Create a github repository...[](https://help.github.com/articles/creating-a-new-
 * Click `create repository`
 * Make sure to add a readme.md file (add readme button)
 
+##Step 2: gitbook.com
+
