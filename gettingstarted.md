@@ -104,11 +104,7 @@ Create a book.json in the project’s root. This is used by Gitbook for its sett
 
 ```json
 {
-    "pluginsConfig": {
-        "mathjax":{
-            "forceSVG": true
-        }
-    }
+    "plugins": ["mathjax"]
 }
 
 ```
