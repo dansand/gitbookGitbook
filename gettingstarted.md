@@ -23,9 +23,9 @@ The repository’s main README.md is going to be the book’s introduction.
 
 
 
-$$
+{% math %}
  {\partial{\bf u}\over{\partial t}} + ({\bf u} \cdot \nabla) {\bf u} = - {1\over\rho} \nabla p + \gamma\nabla^2{\bf u} + {1\over\rho}{\bf F} 
-$$
+{% endmath %}
 
 
 
