@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* gettingstarted
+* [gettingstarted](gettingstarted.md)
 
