@@ -37,7 +37,14 @@ __Maths__
 
 __code__
 
-Render different languages with eg. ```python ```
+Render different languages with eg. 
+
+<div>
+```python 
+your code here...
+```
+
+<div>
 
 ```python
 def FFT(x):
