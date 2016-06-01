@@ -33,7 +33,7 @@ Your book will automatically have file called SUMMARY.md and place it in the doc
 
 ##Step 4: Configuration and plugins
 
-Create a book.json in the project’s root. This is used by Gitbook for its settings.
+Create a book.json in the project’s root. This is used by Gitbook for its settings. Plugins are generally added by pasting an entry snippet into the book.json file. 
 
 
 ```json
