@@ -12,5 +12,14 @@ Create a github repository...[](https://help.github.com/articles/creating-a-new-
 * Click `create repository`
 * Make sure to add a readme.md file (add readme button)
 
+The repository’s main README.md is going to be the book’s introduction.
+
 ##Step 2: gitbook.com
+
+##Step 3: Adding content
+
+
+##Step 3: Configuration and plugins
+
+Create a book.json in the project’s root. This is used by Gitbook for its settings.
 
