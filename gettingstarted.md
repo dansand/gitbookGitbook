@@ -19,6 +19,9 @@ The repository’s main README.md is going to be the book’s introduction.
 
 ##Step 3: Adding content
 
+### Markdown
+
+
 ##Step 4: Book layout 
 
 Your book will automatically have file called SUMMARY.md and place it in the docs directory. This is what dictates the contents tree of the book (or autogenerate). It looks a bit like this:
@@ -46,6 +49,9 @@ Create a book.json in the project’s root. This is used by Gitbook for its sett
 }
 
 ```
+
+
+
 ###Links, blogs, resources
 
 [](https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-for-your-open-source-npm-packages-465dd8d5bfba#.acdr3enfr)
