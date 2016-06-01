@@ -59,6 +59,7 @@ Create a book.json in the project’s root. This is used by Gitbook for its sett
 
 ```
 
+##Step 5: When builds go wrong
 
 
 ###Links, blogs, resources
