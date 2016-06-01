@@ -1,8 +1,7 @@
 {
     "plugins": [
         "mathjax",
-        "-editlink",
-        "advanced-emoji"
+        "-editlink"
     ],
     "pluginsConfig": {}
 }
