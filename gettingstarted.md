@@ -43,8 +43,7 @@ Render different languages with eg.
 ```python 
 your code here...
 ```
-
-<div>
+</div>
 
 ```python
 def FFT(x):
