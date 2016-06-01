@@ -1,6 +1,6 @@
 # gettingstarted
 
-This is a tutorial on how to create a minimal gitbook with github integration. This workflow described here will set up a gitbook from am existing github repository, this way the webhooks enabling syncing get automatically created and you can edit your book from the the github or gitbook.com end.
+This is a tutorial on how to create a minimal gitbook with github integration. This workflow will set up a gitbook from am existing github repository, this way the webhooks enabling syncing get automatically created and you can edit your book from the the github or gitbook.com end.
 
 
 ##Step 1: github
