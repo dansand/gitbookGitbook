@@ -21,7 +21,7 @@ The repository’s main README.md is going to be the book’s introduction.
 
 ##Step 4: Book layout 
 
-Your book will automatically have file called SUMMARY.md and place it in the docs directory. This is where you write out the tree of the book (or autogenerate). It looks a bit like this:
+Your book will automatically have file called SUMMARY.md and place it in the docs directory. This is what dictates the contents tree of the book (or autogenerate). It looks a bit like this:
 
 ```
 # Table of content 
