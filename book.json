@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "mathjax",
-        "-editlink"
+        "mathjax"
     ],
     "pluginsConfig": {}
 }
