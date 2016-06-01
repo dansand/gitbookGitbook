@@ -14,12 +14,17 @@ Create a github repository...[](https://help.github.com/articles/creating-a-new-
 
 The repository’s main README.md is going to be the book’s introduction.
 
-##Step 2: gitbook.com
+##Step 2: gitbook.
+
 
 ##Step 3: Adding content
 
+##Step 4: Book layout 
 
-##Step 3: Configuration and plugins
+Your book will automatically have file called SUMMARY.md and place it in the docs directory. This is where you write out the tree of the book. 
+
+
+##Step 4: Configuration and plugins
 
 Create a book.json in the project’s root. This is used by Gitbook for its settings.
 
