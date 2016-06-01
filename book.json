@@ -3,5 +3,10 @@
         "editlink",
         "mathjax"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+            "edit-link": {
+                "base": "https://github.com/dansand/gitbookGitbook",
+                "label": "Edit This Page"
+            }
+    }
 }
