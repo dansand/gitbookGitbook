@@ -35,8 +35,6 @@ __Maths__
 {% endmath %}
 
 
-__Maths__
-
 __code__
 
 Render different languages with eg ```python ```
