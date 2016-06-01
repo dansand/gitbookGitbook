@@ -26,6 +26,25 @@ Great. This should have set up the webhooks needed to update your girbook from g
 
 ##Step 4: Marking it Down
 
+Some simple markdown...
+
+<div>
+
+#Heading 1
+##Heading 2
+
+_italics_
+
+__bolds__]
+
+`inline code`
+
+```
+code block
+```
+
+</div>
+
 
 
 __Maths__
