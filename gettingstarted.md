@@ -35,3 +35,7 @@ Your book will automatically have file called SUMMARY.md and place it in the doc
 
 Create a book.json in the project’s root. This is used by Gitbook for its settings.
 
+###Links, blogs, resources
+
+[](https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-for-your-open-source-npm-packages-465dd8d5bfba#.acdr3enfr)
+
