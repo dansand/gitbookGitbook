@@ -16,10 +16,17 @@ The repository’s main README.md is going to be the book’s introduction.
 
 ##Step 2: gitbook.
 
+Go to [gitbook.com](gitbook.com), and then 'new book'. Now, this is __importante__ make sure you choose the github, then select the github repository you set up.
+
+Great. This should have set up the webhooks needed to update your girbook from github. Let's check that by adding some content.
+ 
+
 
 ##Step 3: Adding content
 
-### Markdown
+##Step 4: Marking it Down
+
+
 
 __Maths__
 
@@ -53,7 +60,7 @@ def FFT(x):
 
 ```
 
-##Step 4: Book layout 
+##Step 5: Book layout 
 
 Your book will automatically have file called SUMMARY.md and place it in the docs directory. This is what dictates the contents tree of the book (or autogenerate). It looks a bit like this:
 
@@ -65,7 +72,7 @@ Your book will automatically have file called SUMMARY.md and place it in the doc
 
 
 
-##Step 4: Configuration and plugins
+##Step 6: Configuration and plugins
 
 Create a book.json in the project’s root. This is used by Gitbook for its settings. Plugins are generally added by pasting an entry snippet into the book.json file. 
 
@@ -81,7 +88,7 @@ Create a book.json in the project’s root. This is used by Gitbook for its sett
 
 ```
 
-##Step 5: When builds go wrong
+##Step 7: When builds go wrong
 
 
 ###Links, blogs, resources
