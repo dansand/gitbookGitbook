@@ -103,3 +103,6 @@ When you are in the online editor on gitbook.com, there is a dropdown icon at th
 
 [](https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-for-your-open-source-npm-packages-465dd8d5bfba#.acdr3enfr)
 
+
+
+[download this file](https://raw.githubusercontent.com/dansand/Python/master/data/europe-seasonal.txt)
